@@ -1,0 +1,2 @@
+# wikiscraper
+A wikipedia scraper
